@@ -106,13 +106,18 @@ body {
 }
 
 .footer-list li {
+    padding-top: 4%;
     display: inline-block;
-    /* width: 20%; */
+    width: 8%;
 }
 
 .footer-list img {
-    width: 30px;
-    line-height: normal;
+    width: 100%;
+    vertical-align: middle;
+}
+
+.footer-list a {
+    vertical-align: middle;
 }
 
 
