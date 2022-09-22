@@ -13,3 +13,11 @@ body {
 .span_search {
     background-color: #0B2442;
 }
+
+.card-text {
+    color: white;
+}
+
+.card-title {
+    color: white;
+}

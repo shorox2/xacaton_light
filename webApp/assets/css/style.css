@@ -13,9 +13,19 @@ body {
 
 }
 
-.input-group {
-    opacity: .8;
+#heading {
+    margin: 4.8% 4.8% 0% 4.8%;
 }
+
+.space-text {
+    font-size: 12px;
+    color: grey;
+    margin-left: 4.8%;
+}
+
+/* .input-group {
+    opacity: .8;
+} */
 
 .logo {
     text-align: center;
@@ -41,6 +51,7 @@ body {
 .list_link {
     text-decoration: none;
 }
+
 
 .form_search {
     border: 3px;
@@ -73,7 +84,6 @@ body {
 
 .footer {
     position: sticky;
-    /* Липкое позиционирование */
     bottom: 0;
 }
 
@@ -88,7 +98,7 @@ body {
 
 .footer {
     background-color: rgb(13, 110, 253);
-    height: 8%;
+    height: 6%;
     width: 100%;
     bottom: 0;
     position: sticky;
@@ -101,14 +111,15 @@ body {
     height: 100%;
     padding: 0;
     margin: 0;
+
     justify-content: space-around;
 
 }
 
 .footer-list li {
-    padding-top: 4%;
+    padding-top: 1.5%;
     display: inline-block;
-    width: 8%;
+    width: 7%;
 }
 
 .footer-list img {
@@ -121,6 +132,7 @@ body {
 }
 
 
+
 .book {
     color: #fff;
 }
@@ -129,6 +141,59 @@ body {
     color: rgb(244, 33, 104);
 }
 
+.hedd {
+    position: sticky;
+    top: 0;
+}
+
+.number-list {
+    bottom: 4.8%;
+    justify-content: center;
+    margin-top: 4.8%;
+    margin-left: 4.8%;
+    margin-right: 4.8%;
+}
+
+.card-info {
+    width: 90%;
+    padding: 4.8%;
+    margin-left: 4.8%;
+    margin-right: 4.8%;
+    margin-top: 2.4%;
+    margin-bottom: 2.4%;
+    border: 1px solid rgba(186, 186, 186, 0.55);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.like {
+    border: none;
+    background: #fff;
+    /* position: absolute; */
+    /* right: 0;
+    bottom: 0; */
+    margin-left: 70.6%;
+}
+
+.like-img {
+    height: 20px;
+}
+
 .dark-nav {
     background-color: green;
+}
+
+.card-bord {
+    border: 3px solid #32a1ce;
+    margin-right: 4.8%;
+    margin-left: 4.8%;
+    margin-top: 2.4;
+    margin-bottom: 2.4;
+
+}
+
+.card-title {
+    text-decoration: none;
+    color: black;
+    font-style: bolt;
 }

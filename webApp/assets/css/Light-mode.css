@@ -9,3 +9,9 @@
 .span_search {
     background-color: #fff;
 }
+
+.card-title {
+    text-decoration: none;
+    color: black;
+    font-style: bolt;
+}
