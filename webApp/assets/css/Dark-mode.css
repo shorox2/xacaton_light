@@ -1,5 +1,6 @@
 body {
-    background-color: #0b2442;
+    background-color: rgba(12, 36, 66, 0.95);
+    color: white;
 }
 
 .header {
@@ -11,7 +12,7 @@ body {
 }
 
 .span_search {
-    background-color: #0B2442;
+    background-color: #fff;
 }
 
 .card-text {
@@ -20,4 +21,28 @@ body {
 
 .card-title {
     color: white;
+}
+
+.like {
+    background: #0b2442;
+}
+
+.nav-color {
+    background: #483d8b;
+}
+
+.footer-list {
+    background: #483d8b;
+}
+
+.btn-logo {
+    background: #483d8b;
+}
+
+.btn-theme {
+    background: #483d8b;
+}
+
+.card-info {
+    border: 1px solid rgb(113, 113, 113);
 }

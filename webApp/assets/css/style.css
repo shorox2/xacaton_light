@@ -111,7 +111,6 @@ body {
     height: 100%;
     padding: 0;
     margin: 0;
-
     justify-content: space-around;
 
 }
@@ -161,14 +160,13 @@ body {
     margin-right: 4.8%;
     margin-top: 2.4%;
     margin-bottom: 2.4%;
-    border: 1px solid rgba(186, 186, 186, 0.55);
+
     border-radius: 5px;
     box-sizing: border-box;
 }
 
 .like {
     border: none;
-    background: #fff;
     /* position: absolute; */
     /* right: 0;
     bottom: 0; */
@@ -187,13 +185,134 @@ body {
     border: 3px solid #32a1ce;
     margin-right: 4.8%;
     margin-left: 4.8%;
-    margin-top: 2.4;
-    margin-bottom: 2.4;
+    margin-top: 2.4%;
+    margin-bottom: 2.4%;
 
 }
 
 .card-title {
     text-decoration: none;
     color: black;
-    font-style: bolt;
+    font-style: bold;
+}
+
+.p-acc {
+    margin-bottom: 0;
+}
+
+.accord-row {
+    border: none;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 2.4%;
+    margin-bottom: 2.4%;
+}
+
+
+
+.content-hist {
+    margin-top: 2.4%;
+    margin-right: 4.8%;
+    margin-left: 4.8%;
+}
+
+.card-hist {
+    width: 80%;
+    display: inline-block;
+}
+
+.img-hint {
+
+    vertical-align: middle;
+}
+
+.footer-hist {
+    height: 40px;
+}
+
+.account {
+    margin-left: 4.8%;
+    margin-right: 4.8%;
+    margin-top: 2.4%;
+}
+
+.person-logo-reg {
+    width: 30%;
+    display: inline-block;
+    margin-top: 4.8%;
+    margin-left: 35%;
+}
+
+.account h4 {
+    margin-top: 2.4%;
+    text-align: center;
+}
+
+.inform {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.left-info {
+    box-sizing: border-box;
+    width: 50%;
+    display: block;
+    float: left;
+}
+
+.right-info {
+    box-sizing: border-box;
+    width: 50%;
+    display: inline-block;
+}
+
+.right-info button {
+    float: right;
+    margin-right: 18%;
+}
+
+.info-second p {
+    margin-bottom: 5%;
+}
+
+.left-info p {
+    padding-top: 5%;
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+h6 {
+    margin: 0;
+    margin-top: 10%;
+    margin-bottom: 4%;
+    text-align: center;
+}
+
+.progress {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.bar-prog {
+    margin-bottom: 31%;
+}
+
+.nav-color {
+    background: #046bb5;
+}
+
+.footer-list {
+    background: #046bb5;
+    ;
+}
+
+.btn-logo {
+    background: #046bb5;
+    ;
+}
+
+.btn-theme {
+    background: #046bb5;
 }
